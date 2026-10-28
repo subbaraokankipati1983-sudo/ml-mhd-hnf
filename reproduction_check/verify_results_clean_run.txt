@@ -1,0 +1,21 @@
+OK   baseline Nu 12.161387611504551 12.161
+OK   baseline Cf -2.5708526773001235 -2.5709
+OK   reference optimum Nu 42.20182028842677 42.202
+OK   gain factor 3.4701487472414647 3.47
+OK   LHS converged 1872.0 1872
+OK   LHS sampled 2000 2000
+OK   ten-seed Nu mean 43.47910202006444 43.5
+OK   ten-seed Nu min 38.750367356684485 38.8
+OK   ten-seed Nu max 45.694064235652725 45.7
+OK   Nu CV R2 0.9454373055033831 0.945
+OK   Crane f''(0) -1.0000011307525576 -1.0
+OK   wide-box Nu 99.12472810186209 99.1
+OK   D=0 Nu 76.97039281088287 77.0
+OK   shear closure Nu 34.22837703194056 34.2
+OK   bulk-flux Nu 34.04811628457547 34.05
+OK   margin cap 0.5 Nu 38.35333745060872 38.4
+OK   margin cap 0.95 Nu 86.54137787012212 86.5
+OK   suction cap 1.5 Nu 21.945693381670107 21.95
+OK   closure p=2 reference-design Nu 42.16378775883142 42.16
+OK   conformal 90% coverage Nu 0.9015151515151513 0.9
+OK   optima inside 90% interval (of 10) 8 8
