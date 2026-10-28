@@ -1,4 +1,4 @@
-"""Regenerates the V33 pipeline (about 45 min on two CPU cores). Run from the repository root."""
+"""Regenerates the pipeline (about 45 min on two CPU cores). Run from the repository root."""
 import subprocess, sys, os
 os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'src'))
 for _f in ['de_results.jsonl']:  # stage3_de.py appends: start from an empty file so a re-run in a populated checkout is not doubled

@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the associated article."
 title: "ml-mhd-hnf: solver-in-the-loop optimization of an MHD micropolar hybrid nanofluid"
-version: "v33"
 date-released: "2026-10-10"
 authors:
   - family-names: "Subbarao"
