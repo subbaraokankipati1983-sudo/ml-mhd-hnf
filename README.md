@@ -1,4 +1,4 @@
-# ml-mhd-hnf (V33)
+# ml-mhd-hnf 
 
 Solver-in-the-loop optimization of an MHD micropolar Cu-Al2O3/water hybrid nanofluid with Soret-Dufour effects, chemical reaction and thermal dispersion.
 
